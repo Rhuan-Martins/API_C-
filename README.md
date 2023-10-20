@@ -1,24 +1,21 @@
-# DIO - Trilha .NET - API e Entity Framework
-www.dio.me
+# .NET - API e Entity Framework
 
 ## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
+Utilização do módulo de API e Entity Framework, da trilha .NET da DIO.
 
 ## Contexto
-Você precisa construir um sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
+Sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
 
-Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obter os registros, criar, salvar e deletar esses registros.
+Essa lista de tarefas possui ter um CRUD, ou seja, permitindo obter os registros, criar, salvar e deletar esses registros.
 
-A sua aplicação deverá ser do tipo Web API ou MVC, fique a vontade para implementar a solução que achar mais adequado.
+A sua aplicação é ser do tipo Web API.
 
-A sua classe principal, a classe de tarefa, deve ser a seguinte:
+Classe Tarefa:
 
 ![Diagrama da classe Tarefa](diagrama.png)
 
-Não se esqueça de gerar a sua migration para atualização no banco de dados.
 
-## Métodos esperados
-É esperado que você crie o seus métodos conforme a seguir:
+## Métodos:
 
 
 **Swagger**
@@ -54,5 +51,4 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 ```
 
 
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
