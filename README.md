@@ -1,8 +1,5 @@
 # .NET - API e Entity Framework
 
-## Desafio de projeto
-Utilização do módulo de API e Entity Framework, da trilha .NET da DIO.
-
 ## Contexto
 Sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
 
